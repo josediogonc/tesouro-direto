@@ -5,9 +5,20 @@ About
 
    * :money_with_wings: :money_with_wings: Scrap daily information of Tesouro Direto (http://www.tesouro.fazenda.gov.br/tesouro-direto-precos-e-taxas-dos-titulos)
    
+Install
+-------
+```bash
+pip install scrapy
+```
+
+Run
+-------
+```bash
+scrapy crawl tesourodireto
+```
+
 Output
 -------
-
 ```bash
 2016-07-07 22:22:01 [scrapy] DEBUG: Crawled (200) <GET http://www.tesouro.fazenda.gov.br/tesouro-dir
 eto-precos-e-taxas-dos-titulos> (referer: None)
