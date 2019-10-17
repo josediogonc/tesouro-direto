@@ -1,4 +1,6 @@
 # Tesouro Direto
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleogregianin%2Ftesouro-direto.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleogregianin%2Ftesouro-direto?ref=badge_shield)
+
 
 About
 -------
@@ -54,3 +56,7 @@ License
 -------
 
 [The MIT License](LICENSE).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fleogregianin%2Ftesouro-direto.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fleogregianin%2Ftesouro-direto?ref=badge_large)
