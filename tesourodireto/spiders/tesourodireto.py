@@ -14,7 +14,7 @@ class TesouroDiretoSpider(scrapy.Spider):
         i = 0
         contador = 0
 
-        for index in xrange((len(list_resp)/5)):
+        for index in range(int(len(list_resp)/5)):
             Titulo = list_resp[i+0]
             Vencto = list_resp[i+1]
             TaxaRendimentoAa = list_resp[i+2]
